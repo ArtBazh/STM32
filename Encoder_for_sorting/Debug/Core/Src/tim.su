@@ -1,0 +1,13 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_bus.h:763:22:LL_APB2_GRP1_EnableClock	24	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:1254:22:LL_TIM_DisableARRPreload	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2214:22:LL_TIM_IC_SetActiveInput	32	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2264:22:LL_TIM_IC_SetPrescaler	32	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2327:22:LL_TIM_IC_SetFilter	32	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2391:22:LL_TIM_IC_SetPolarity	32	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2598:22:LL_TIM_SetEncoderMode	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2627:22:LL_TIM_SetTriggerOutput	16	static
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_tim.h:2693:22:LL_TIM_DisableMasterSlaveMode	16	static
+../Core/Src/tim.c:30:6:MX_TIM1_Init	48	static
+../Core/Src/tim.c:81:6:MX_TIM2_Init	56	static
+../Core/Src/tim.c:125:6:HAL_TIM_Encoder_MspInit	40	static
+../Core/Src/tim.c:153:6:HAL_TIM_Encoder_MspDeInit	16	static
